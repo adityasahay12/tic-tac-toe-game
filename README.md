@@ -27,5 +27,3 @@ style.css
 script.js  
 
 
-## 🌐 Live Demo
-(Add link if you deploy it)
