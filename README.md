@@ -27,3 +27,5 @@ style.css
 script.js  
 
 
+Game logic improved for better user experience
+
